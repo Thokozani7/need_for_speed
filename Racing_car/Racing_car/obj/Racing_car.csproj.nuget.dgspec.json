@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj": {}
+    "C:\\Users\\bbdnet2224\\Desktop\\mduma\\Racing_car\\Racing_car\\Racing_car.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj": {
+    "C:\\Users\\bbdnet2224\\Desktop\\mduma\\Racing_car\\Racing_car\\Racing_car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj",
+        "projectUniqueName": "C:\\Users\\bbdnet2224\\Desktop\\mduma\\Racing_car\\Racing_car\\Racing_car.csproj",
         "projectName": "Racing_car",
-        "projectPath": "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj",
-        "packagesPath": "C:\\Users\\bbdnet2205\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\obj\\",
+        "projectPath": "C:\\Users\\bbdnet2224\\Desktop\\mduma\\Racing_car\\Racing_car\\Racing_car.csproj",
+        "packagesPath": "C:\\Users\\bbdnet2224\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bbdnet2224\\Desktop\\mduma\\Racing_car\\Racing_car\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bbdnet2205\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\bbdnet2224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

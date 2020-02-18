@@ -33,3 +33,38 @@ C:\Users\bbdnet2205\Desktop\visual studio project\Racing_car\Racing_car\obj\Debu
 C:\Users\bbdnet2205\Desktop\visual studio project\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.dll
 C:\Users\bbdnet2205\Desktop\visual studio project\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.pdb
 C:\Users\bbdnet2205\Desktop\visual studio project\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.csproj.CopyComplete
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.exe
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.deps.json
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.runtimeconfig.json
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.runtimeconfig.dev.json
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.dll
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.pdb
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.Views.dll
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\bin\Debug\netcoreapp3.1\Racing_car.Views.pdb
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.csprojAssemblyReference.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\staticwebassets\Racing_car.StaticWebAssets.Manifest.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\staticwebassets\Racing_car.StaticWebAssets.xml
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.RazorAssemblyInfo.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.RazorAssemblyInfo.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.AssemblyInfoInputs.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.AssemblyInfo.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.TagHelpers.input.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.TagHelpers.output.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.RazorCoreGenerate.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.RazorTargetAssemblyInfo.cache
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.RazorTargetAssemblyInfo.cs
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.Views.pdb
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.dll
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.pdb
+C:\Users\bbdnet2224\Desktop\mduma\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.csproj.CopyComplete
