@@ -22,6 +22,11 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "dependencies": {
+      "commandName": "Storage Dependency",
+      "Microsoft.AspNetCore.Session": "1.0.0",
+      "Microsoft.Extensions.Caching.Memory": "1.0.0"
     }
   }
 }

@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Racing_car.Models;
+using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json;
 
 namespace Racing_car.Controllers
 {
@@ -20,11 +22,19 @@ namespace Racing_car.Controllers
 
         public IActionResult Index()
         {
+            //UserID maybe??
+            var sessions = new Sessions() {UserName = "", highScore = 0 };
+
+            //Set User Info into Session
+            HttpContext.Session.SetString("sessionUser", JsonConvert.SerializeObject(sessions));
+
             return View();
         }
 
         public IActionResult Privacy()
         {
+            //ViewBag.sessionv = HttpContext.Session.GetString("Test");
+
             return View();
         }
 
