@@ -30,6 +30,8 @@ namespace Racing_car.Controllers
             return View(users);
         }
 
+        
+
         [HttpPost]
         public ActionResult Save([Bind( "Name")]Users user)
         {
@@ -42,16 +44,16 @@ namespace Racing_car.Controllers
             return View("Create", user);
         }
 
-        //[HttpPost]
-        //public ActionResult User ([Bind("Name")]Users user)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        _Context.Users.Add(user);
-        //        _Context.SaveChanges();
-        //        return RedirectToAction("game");
-        //    }
-        //    return View("Create", user);
-        //}
+        [HttpPost]
+        public ActionResult UserName_Submit([Bind("Name")]Users user)
+        {
+            if (ModelState.IsValid)
+            {
+                _Context.Users.Add(user);
+                _Context.SaveChanges();
+                return RedirectToAction("index");
+            }
+            return View("Create", user);
+        }
     }
 }
