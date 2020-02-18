@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj": {}
+    "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj": {
+    "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj",
+        "projectUniqueName": "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj",
         "projectName": "Racing_car",
-        "projectPath": "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\Racing_car.csproj",
+        "projectPath": "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj",
         "packagesPath": "C:\\Users\\bbdnet2205\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbdnet2205\\Desktop\\visual studio project\\Racing_car\\Racing_car\\obj\\",
+        "outputPath": "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,6 +41,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
