@@ -21,7 +21,16 @@ namespace Racing_car
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<Db_context>(opt => opt.UseInMemoryDatabase("race_car"));
-            services.AddMvc();
+            
+
+            services.AddControllersWithViews();
+
+            services.AddDistributedMemoryCache();
+            services.AddSession(options => {
+                options.IdleTimeout = TimeSpan.FromSeconds(3600);
+
+            });
+            services.AddMvc(option => option.EnableEndpointRouting = false);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,11 +53,18 @@ namespace Racing_car
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
+            /*app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+            });*/
+
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
