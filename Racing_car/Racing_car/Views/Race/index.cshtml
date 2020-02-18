@@ -1,0 +1,27 @@
+﻿
+@model List<Users>
+    @* ViewData["Title"] = "leaderboard"; *@
+
+
+<h1>leaderboard</h1>
+<p>
+    <a asp-action="Create"> Create new </a>
+</p>
+    @*<h2> List of usernames</h2>*@
+    <hr/>
+
+<table class = "table">
+    <tr>
+        <th> Username: </th>
+        <th> Points: </th>
+    </tr>
+</table>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td> @Html.DisplayFor(Users => item.Name) </td>
+        @* <th> Points: </th> *@
+    </tr>
+}
+
