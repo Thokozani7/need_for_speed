@@ -6598,11 +6598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bbdnet2222\\Desktop\\Speed2\\Racing_car\\Racing_car\\Racing_car.csproj",
+      "projectUniqueName": "C:\\Users\\bbdnet2222\\Desktop\\NFS\\Racing_car\\Racing_car\\Racing_car.csproj",
       "projectName": "Racing_car",
-      "projectPath": "C:\\Users\\bbdnet2222\\Desktop\\Speed2\\Racing_car\\Racing_car\\Racing_car.csproj",
+      "projectPath": "C:\\Users\\bbdnet2222\\Desktop\\NFS\\Racing_car\\Racing_car\\Racing_car.csproj",
       "packagesPath": "C:\\Users\\bbdnet2222\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bbdnet2222\\Desktop\\Speed2\\Racing_car\\Racing_car\\obj\\",
+      "outputPath": "C:\\Users\\bbdnet2222\\Desktop\\NFS\\Racing_car\\Racing_car\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
