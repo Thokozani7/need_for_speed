@@ -17,6 +17,7 @@ namespace Racing_car.Controllers
             return View();
         }
 
+        //setting of player credentials
         public ActionResult SetDetails(string username)
         {
             Sessions s = new Sessions
