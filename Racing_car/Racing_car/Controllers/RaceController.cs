@@ -13,47 +13,24 @@ namespace Racing_car.Controllers
 
         private readonly Db_context _Context;
 
+        //constructor
         public RaceController(Db_context context)
         {
             _Context = context;
         }
         // GET: Race
+
+        //leaderboard 
         public ActionResult Index()
         {
             var leaderboard = _Context.Users.ToList();
             return View(leaderboard);
         }
-
+        //creation of a new user
         public ActionResult Create()
         {
             var users = new Users();
             return View(users);
-        }
-
-        
-
-        [HttpPost]
-        public ActionResult Save([Bind( "Name")]Users user)
-        {
-            if(ModelState.IsValid)
-            {
-                _Context.Users.Add(user);
-                _Context.SaveChanges();
-                return RedirectToAction("index");
-            }
-            return View("Create", user);
-        }
-
-        [HttpPost]
-        public ActionResult UserName_Submit([Bind("Name")]Users user)
-        {
-            if (ModelState.IsValid)
-            {
-                _Context.Users.Add(user);
-                _Context.SaveChanges();
-                return RedirectToAction("index");
-            }
-            return View("Create", user);
         }
     }
 }
