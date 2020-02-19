@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbdnet2208\\Source\\Repos\\Need_For_Speed\\Racing_car\\Racing_car\\Racing_car.csproj": {}
+    "C:\\Users\\bbdnet2208\\source\\repos\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbdnet2208\\Source\\Repos\\Need_For_Speed\\Racing_car\\Racing_car\\Racing_car.csproj": {
+    "C:\\Users\\bbdnet2208\\source\\repos\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbdnet2208\\Source\\Repos\\Need_For_Speed\\Racing_car\\Racing_car\\Racing_car.csproj",
+        "projectUniqueName": "C:\\Users\\bbdnet2208\\source\\repos\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj",
         "projectName": "Racing_car",
-        "projectPath": "C:\\Users\\bbdnet2208\\Source\\Repos\\Need_For_Speed\\Racing_car\\Racing_car\\Racing_car.csproj",
+        "projectPath": "C:\\Users\\bbdnet2208\\source\\repos\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj",
         "packagesPath": "C:\\Users\\bbdnet2208\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbdnet2208\\Source\\Repos\\Need_For_Speed\\Racing_car\\Racing_car\\obj\\",
+        "outputPath": "C:\\Users\\bbdnet2208\\source\\repos\\need_for_speed\\Racing_car\\Racing_car\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bbdnet2208\\AppData\\Roaming\\NuGet\\NuGet.Config",
