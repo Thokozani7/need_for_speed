@@ -13,16 +13,20 @@ namespace Racing_car.Controllers
 
         private readonly Db_context _Context;
 
+        //constructor
         public RaceController(Db_context context)
         {
             _Context = context;
         }
         // GET: Race
+
+        //leaderboard 
         public ActionResult Index()
         {
             var leaderboard = _Context.Users.ToList();
             return View(leaderboard);
         }
+<<<<<<< HEAD
 
         //public ActionResult Create()
         //{
@@ -45,5 +49,13 @@ namespace Racing_car.Controllers
         }
 
    
+=======
+        //creation of a new user
+        public ActionResult Create()
+        {
+            var users = new Users();
+            return View(users);
+        }
+>>>>>>> b472d91d0d5359b19a5328fad6b6b83874f1a542
     }
 }

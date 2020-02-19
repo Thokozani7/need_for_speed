@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Racing_car.Models;
+using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json;
 
 namespace Racing_car.Controllers
 {
     public class HomeController : Controller
     {
+<<<<<<< HEAD
         // private readonly ILogger<HomeController> _logger;
 
         // public HomeController(ILogger<HomeController> logger)
@@ -24,11 +27,16 @@ namespace Racing_car.Controllers
             _Context = context;
         }
 
+=======
+        //index page method
+>>>>>>> b472d91d0d5359b19a5328fad6b6b83874f1a542
         public IActionResult Index()
         {
+            var sessions = new Sessions() { UserName = "", highScore = 0 };
             return View();
         }
 
+<<<<<<< HEAD
         public IActionResult leaderboard()
         {
             var leaderboard = _Context.Users.ToList();
@@ -54,5 +62,12 @@ namespace Racing_car.Controllers
             //return View("Game", user);
         }
 
+=======
+        //game page method
+        public IActionResult Game()
+        {
+            return View();
+        }
+>>>>>>> b472d91d0d5359b19a5328fad6b6b83874f1a542
     }
 }

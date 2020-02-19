@@ -6592,23 +6592,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bbdnet2205\\.nuget\\packages\\": {},
+    "C:\\Users\\bbdnet2222\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj",
+      "projectUniqueName": "C:\\Users\\bbdnet2222\\Desktop\\NFS\\Racing_car\\Racing_car\\Racing_car.csproj",
       "projectName": "Racing_car",
-      "projectPath": "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\Racing_car.csproj",
-      "packagesPath": "C:\\Users\\bbdnet2205\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bbdnet2205\\Desktop\\need_for_speed\\Racing_car\\Racing_car\\obj\\",
+      "projectPath": "C:\\Users\\bbdnet2222\\Desktop\\NFS\\Racing_car\\Racing_car\\Racing_car.csproj",
+      "packagesPath": "C:\\Users\\bbdnet2222\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bbdnet2222\\Desktop\\NFS\\Racing_car\\Racing_car\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\bbdnet2205\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bbdnet2222\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
