@@ -17,21 +17,42 @@ namespace Racing_car.Controllers
         // {
         //     _logger = logger;
         // }
+        private readonly Db_context _Context;
+
+        public HomeController(Db_context context)
+        {
+            _Context = context;
+        }
 
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Game()
+        public IActionResult leaderboard()
+        {
+            var leaderboard = _Context.Users.ToList();
+            return View(leaderboard);
+        }
+
+        public IActionResult game()
         {
             return View();
         }
 
-        // [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        // public IActionResult Error()
-        // {
-        //     return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        // }
+        [HttpPost]
+        public IActionResult Game([Bind("Name")]Users user)
+        {
+               
+            if (ModelState.IsValid)
+            {
+                _Context.Users.Add(user);
+                _Context.SaveChanges();
+                return RedirectToAction("game");
+            }
+            return View("index", user);
+            //return View("Game", user);
+        }
+
     }
 }

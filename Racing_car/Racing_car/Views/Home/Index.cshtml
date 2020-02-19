@@ -1,31 +1,20 @@
 ﻿
-@{
-    ViewData["Title"] = "";
-}
-<h1>@ViewData["Title"]</h1>
+@model Users
 
 <h1> Need For Speed </h1>
 <h1> Start the Game!!!</h1>
 <br />
 <link href="~/css/background.css" rel="stylesheet">
 
-<html>
 
+<div class="body">
+    <form asp-action="Game" class="container">
+        <h2>Ready!!!!</h2>
 
-<body>
-    <div class="body">
-        <form asp-action="Game" class="container">
-            <h2>Ready!!!!</h2>
+        <label asp-for="Name"><b>Username</b></label>
+        <input asp-for="Name" placeholder="Enter Username" >
+        <span asp-validation-for="Name" class="text-danger"></span>
 
-            <label for="Username"><b>Username</b></label>
-            <input type="text" id="username" placeholder="Enter Username" name="username" required>
-
-            <button type="submit" class="btn">Start!</button>
-        </form>
-    </div>
-
-</body>
-
-
-
-</html>
+        <button type="Submit" id="btnSave" value="UserNamebtn" class="btn">Start!</button>
+    </form>
+</div>

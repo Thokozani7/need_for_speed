@@ -235,8 +235,6 @@ C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netco
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.TagHelpers.input.cache
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.TagHelpers.output.cache
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.RazorCoreGenerate.cache
-C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Race\Create.cshtml.g.cs
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Race\index.cshtml.g.cs
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -250,3 +248,6 @@ C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netco
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.dll
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Racing_car.pdb
 C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Home\game.cshtml.g.cs
+C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Race\Create.cshtml.g.cs
+C:\Users\bbdnet2205\Desktop\need_for_speed\Racing_car\Racing_car\obj\Debug\netcoreapp3.1\Razor\Views\Home\Leaderboard.cshtml.g.cs
